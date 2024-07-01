@@ -1,0 +1,10 @@
+{
+  "@context": {
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+    "CompleteMrzBarcode": "https://w3id.org/citizenship/uscis#CompleteMrzBarcode",
+    "did:key:zDnaej26n8mL42MsqvBNxaSLX2EGwHmxxQoWNw3hYc38Tcy2C": "did:key:zDnaej26n8mL42MsqvBNxaSLX2EGwHmxxQoWNw3hYc38Tcy2C",
+    "did:key:zDnaej26n8mL42MsqvBNxaSLX2EGwHmxxQoWNw3hYc38Tcy2C#zDnaej26n8mL42MsqvBNxaSLX2EGwHmxxQoWNw3hYc38Tcy2C": "did:key:zDnaej26n8mL42MsqvBNxaSLX2EGwHmxxQoWNw3hYc38Tcy2C#zDnaej26n8mL42MsqvBNxaSLX2EGwHmxxQoWNw3hYc38Tcy2C"
+  }
+}
