@@ -29,8 +29,5 @@ These include:
    - associated digest file e.g. citizenship-uscis-vcb-v1-digest.txt
 
 Steps:
-1. Run the command *'curl -s https://url-of-the-context-file | openssl dgst -sha256'* from a modern Unix command line interface to generate the cryptographic digest of the context file
+1.Run a command like the following, replacing <DOCUMENT_URL> with the appropriate value for the location of the @context file, through a modern UNIX-like OS command line interface: curl -sL -H "Accept: application/ld+json" <DOCUMENT_URL> | openssl dgst -sha256 
 2. Ensure that the digest generated in the prior step matches the one found in the associated published digest file
-
-
-
