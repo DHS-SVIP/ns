@@ -23,6 +23,7 @@ Repository of machine-readable artifacts related to W3C Verifiable Credentials a
   - /status
   - /oidp
 
+## Notes
 
 > [!IMPORTANT]  
 > You should confirm that the hexadecimal encoded SHA2-256 digest value of a @context file we publish matches our published digest value.
