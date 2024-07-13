@@ -4,8 +4,8 @@ Repository of machine-readable artifacts related to W3C Verifiable Credentials a
 
 ## Test DIDs
 
-CBP/OT: `did:web:dhs-svip.github.io:ns:cbp:ot`
-USCIS/OIDP: `did:web:dhs-svip.github.io:ns:uscis:oidp`
+- CBP/OT: `did:web:dhs-svip.github.io:ns:cbp:ot`
+- USCIS/OIDP: `did:web:dhs-svip.github.io:ns:uscis:oidp`
 
 ## Directory Structure
 
