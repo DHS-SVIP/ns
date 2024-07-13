@@ -1,24 +1,27 @@
 # DHS SVIP Interoperability Testing Metadata
 
-Repository of machine-readable artifacts related to W3C Verifiable Credentials and W3C Decentralized Identifiers, for use in W3C VC/DID interoperability testing with DHS.
+Repository of machine-readable artifacts related to W3C Verifiable Credentials and W3C Decentralized Identifiers, for use in W3C VC/DID interoperability testing with CBP & USCIS.
 
-These include:
+## Test DIDs
 
-- JSON-LD @context file(s) & associated cryptographic digest(s); in the /contexts directory
-- Bitstring status list(s); in the /status directory
-- DID document(s); in the /ddocs directory
+CBP/OT: `did:web:dhs-svip.github.io:ns:cbp:ot`
+USCIS/OIDP: `did:web:dhs-svip.github.io:ns:uscis:oidp`
 
 ## Directory Structure
+
+- JSON-LD @context file(s) & associated cryptographic digest(s); in .../contexts 
+- Bitstring status list(s); in .../status 
+- DID document(s); in .../cbp/ot & .../uscis/oidp
 
 /ns
 - /cbp
   - /contexts
   - /status
-  - /ddoc
+  - /ot
 - /uscis
   - /contexts
   - /status
-  - /ddoc
+  - /oidp
 
 
 > [!IMPORTANT]  
