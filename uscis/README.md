@@ -17,5 +17,5 @@
 
 ## Test Bitstring Status List VC for above Test Sample Credentials
 
-- `statusListCredential` @ [https://dhs-svip.github.io/ns/uscis/status/3](/uscis/status/3),
+- `statusListCredential` @ [https://dhs-svip.github.io/ns/uscis/status/3](/uscis/status/3)
 
