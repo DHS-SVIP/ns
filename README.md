@@ -18,7 +18,7 @@ Repository of machine-readable artifacts related to W3C Verifiable Credentials a
   - /contexts
   - /status
   - /ot
-- /uscis
+- [/uscis](/uscis/)
   - /contexts
   - /status
   - /oidp
